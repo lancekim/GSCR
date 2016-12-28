@@ -12,7 +12,7 @@
 
 %The input parameters are:
 %- Q is the flow rate [m3/s]
-%- RQ is the reinjected flow rate fraction (values: 0÷1)
+%- RQ is the reinjected flow rate fraction (values: 0Ã·1)
 %- DT is the temperature difference [K] between the extraction 
 %and the injection well (i.e. positive for cooling plants)
 %- L is the well distance [m]
@@ -47,7 +47,7 @@
 
 %Assign the input parameters and select the output here:
 Q=0.103009;         % [m3/s] well flow rate
-RQ=1;           % [-] reinjected flow rate fraction (values: 0÷1) 
+RQ=1;           % [-] reinjected flow rate fraction (values: 0Ã·1) 
 DT=70;           % [K] temperature difference between the extraction and injection well
 L=1000;           % [m] well distance
 rw=0.25;        % [m] well radius
